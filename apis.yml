@@ -47,7 +47,7 @@ tags:
 - Media
 - Marketplace
 - Mexico
-- Real-Estate
+- Real Estate
 - Drone
 - Virtual Tours
 tags_raw:
@@ -60,6 +60,7 @@ tags_raw:
 - Real Estate
 - Drone
 - Virtual Tours
+- Real-Estate
 apis: []
 maintainers:
 - FN: Kin Lane
